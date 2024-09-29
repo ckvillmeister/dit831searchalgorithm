@@ -1,0 +1,9 @@
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
